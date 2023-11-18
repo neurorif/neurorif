@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @neurorif
+- 👀 I’m interested in building high quality mobile apps
+- 🌱 I’m currently learning Android compose
